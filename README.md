@@ -2,7 +2,7 @@
 
 > A modern, feature-rich AI voice assistant interface built with cutting-edge web technologies. Experience seamless real-time conversations with intelligent audio visualization.
 
-**🌐 Live Project:** [https://vimora-zeta.vercel.app/](https://vimora-zeta.vercel.app/
+**🌐 Live Project:** [https://vimora-zeta.vercel.app/](https://vimora-zeta.vercel.app/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-96.8%25-3178C6?logo=typescript)](https://www.typescriptlang.org/)
